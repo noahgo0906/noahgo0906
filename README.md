@@ -1,4 +1,4 @@
-## Hi there 👋
+## 대과영 1학년 1반 고민석
 
 <!--
 **noahgo0906/noahgo0906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
